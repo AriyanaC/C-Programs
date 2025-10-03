@@ -9,7 +9,7 @@ int main()
 {
     int n, originalNumber, reversedNumber = 0, remainder;
     
-    printf("Enter the number of terms:");
+    printf("Enter the number:");
     scanf("%d", &n);
     
     originalNumber = n;
