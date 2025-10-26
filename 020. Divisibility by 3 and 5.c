@@ -17,6 +17,14 @@ int main()
         {
             printf("\n%d is divisible by both 3 and 5.", num1);
         }
+        else
+        {
+            printf("\n%d is not divisible by 5",num1);
+        }
+    }
+    else
+    {
+        printf("\n%d is not divisible by 3",num1);
     }
 
     return 0;
